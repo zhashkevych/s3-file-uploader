@@ -1,5 +1,7 @@
 # File Uploading API (to S3 competible storage)  
 
+## <a href="https://medium.com/@zhashkevych/api-%D0%BD%D0%B0-go-gin-gonic-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-99e3622a3d6a">Blog Post</a>
+
 ## Requirements
 - go 1.14
 - docker & docker-compose
